@@ -1,0 +1,25 @@
+									
+Story ID	Request by	Description	Sprint #	1	2	3	4	5	6
+			Effort needed for Release 1 as in the beginning of the sprint	260	0	0	0	0	0
+1	team leader	建立持续集成环境服务器		10	0	0	0	0	0
+2	eam leader	为BM工程在Github上初始化项目		10	0	0	0	0	0
+3	team leader	建立程序界面，设立各个功能实现的API接口		70	0	0	0	0	0
+Sprint 1		建立程序界面							
+6	Product Owner	能够在给定的系统目录下搜索所有给定格式的文件		40					
+7	Product Owner	对文件格式进行分类，可自动分类也可手动分类		40					
+8	Product Owner	新增书籍功能		30					
+9	Product Owner	删除书籍功能		30					
+10	Product Owner	修改书籍信息功能		30					
+Sprint 2									
+									
+									
+									
+									
+Sprint 3									
+Release 1									
+									
+									
+									
+Sprint 4									
+Release 2									
+		Effort in the whole backlog		260	0	0	0	0	0
